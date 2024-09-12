@@ -1,2 +1,2 @@
 # 10a_2024
-cau
+Programēšana 10.kl. - 12.kl.
